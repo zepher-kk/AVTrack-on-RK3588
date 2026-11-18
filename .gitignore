@@ -1,0 +1,39 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+*.egg-info/
+
+# ---- 模型 / 中间产物（走 Release，不进仓库）----
+*.pth
+*.pth.tar
+*.onnx
+*.engine
+*.rknn
+*.npz
+*.npy
+
+# RKNN build 会在当前目录 dump 中间 ONNX（约 4 × 26 MB），务必忽略
+check*_*.onnx
+optimize_*.onnx
+
+# ---- 数据 / 结果（体积大，可重生成）----
+data/
+output/
+tensorboard/
+videos/
+results/crops/
+results/pc_ort/**/*.mp4
+results/rknn/**/*.mp4
+results/*.mp4
+
+# ---- 日志 ----
+logs/*.log
+
+# ---- 环境 ----
+.env
+.venv/
+venv/
+.DS_Store
+Thumbs.db

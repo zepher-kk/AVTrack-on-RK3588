@@ -1,0 +1,401 @@
+{
+  "pairs": 20,
+  "metas": [
+    {
+      "video": "man",
+      "roi_name": "helmet",
+      "roi": [
+        143.0,
+        28.0,
+        64.0,
+        40.0
+      ],
+      "frame": 0,
+      "tpl_crop_sz": 102.0,
+      "search_crop_sz": 203.0,
+      "frame_hw": [
+        256,
+        340
+      ]
+    },
+    {
+      "video": "man",
+      "roi_name": "helmet",
+      "roi": [
+        143.0,
+        28.0,
+        64.0,
+        40.0
+      ],
+      "frame": 76,
+      "tpl_crop_sz": 102.0,
+      "search_crop_sz": 203.0,
+      "frame_hw": [
+        256,
+        340
+      ]
+    },
+    {
+      "video": "man",
+      "roi_name": "helmet",
+      "roi": [
+        143.0,
+        28.0,
+        64.0,
+        40.0
+      ],
+      "frame": 151,
+      "tpl_crop_sz": 102.0,
+      "search_crop_sz": 203.0,
+      "frame_hw": [
+        256,
+        340
+      ]
+    },
+    {
+      "video": "man",
+      "roi_name": "helmet",
+      "roi": [
+        143.0,
+        28.0,
+        64.0,
+        40.0
+      ],
+      "frame": 226,
+      "tpl_crop_sz": 102.0,
+      "search_crop_sz": 203.0,
+      "frame_hw": [
+        256,
+        340
+      ]
+    },
+    {
+      "video": "man",
+      "roi_name": "helmet",
+      "roi": [
+        143.0,
+        28.0,
+        64.0,
+        40.0
+      ],
+      "frame": 302,
+      "tpl_crop_sz": 102.0,
+      "search_crop_sz": 203.0,
+      "frame_hw": [
+        256,
+        340
+      ]
+    },
+    {
+      "video": "cars",
+      "roi_name": "black_car",
+      "roi": [
+        520.0,
+        260.0,
+        45.0,
+        32.0
+      ],
+      "frame": 0,
+      "tpl_crop_sz": 76.0,
+      "search_crop_sz": 152.0,
+      "frame_hw": [
+        720,
+        1280
+      ]
+    },
+    {
+      "video": "cars",
+      "roi_name": "black_car",
+      "roi": [
+        520.0,
+        260.0,
+        45.0,
+        32.0
+      ],
+      "frame": 100,
+      "tpl_crop_sz": 76.0,
+      "search_crop_sz": 152.0,
+      "frame_hw": [
+        720,
+        1280
+      ]
+    },
+    {
+      "video": "cars",
+      "roi_name": "black_car",
+      "roi": [
+        520.0,
+        260.0,
+        45.0,
+        32.0
+      ],
+      "frame": 199,
+      "tpl_crop_sz": 76.0,
+      "search_crop_sz": 152.0,
+      "frame_hw": [
+        720,
+        1280
+      ]
+    },
+    {
+      "video": "cars",
+      "roi_name": "black_car",
+      "roi": [
+        520.0,
+        260.0,
+        45.0,
+        32.0
+      ],
+      "frame": 298,
+      "tpl_crop_sz": 76.0,
+      "search_crop_sz": 152.0,
+      "frame_hw": [
+        720,
+        1280
+      ]
+    },
+    {
+      "video": "cars",
+      "roi_name": "black_car",
+      "roi": [
+        520.0,
+        260.0,
+        45.0,
+        32.0
+      ],
+      "frame": 398,
+      "tpl_crop_sz": 76.0,
+      "search_crop_sz": 152.0,
+      "frame_hw": [
+        720,
+        1280
+      ]
+    },
+    {
+      "video": "street",
+      "roi_name": "left_guy",
+      "roi": [
+        255.0,
+        143.0,
+        37.0,
+        95.0
+      ],
+      "frame": 0,
+      "tpl_crop_sz": 119.0,
+      "search_crop_sz": 238.0,
+      "frame_hw": [
+        320,
+        568
+      ]
+    },
+    {
+      "video": "street",
+      "roi_name": "left_guy",
+      "roi": [
+        255.0,
+        143.0,
+        37.0,
+        95.0
+      ],
+      "frame": 106,
+      "tpl_crop_sz": 119.0,
+      "search_crop_sz": 238.0,
+      "frame_hw": [
+        320,
+        568
+      ]
+    },
+    {
+      "video": "street",
+      "roi_name": "left_guy",
+      "roi": [
+        255.0,
+        143.0,
+        37.0,
+        95.0
+      ],
+      "frame": 212,
+      "tpl_crop_sz": 119.0,
+      "search_crop_sz": 238.0,
+      "frame_hw": [
+        320,
+        568
+      ]
+    },
+    {
+      "video": "street",
+      "roi_name": "left_guy",
+      "roi": [
+        255.0,
+        143.0,
+        37.0,
+        95.0
+      ],
+      "frame": 318,
+      "tpl_crop_sz": 119.0,
+      "search_crop_sz": 238.0,
+      "frame_hw": [
+        320,
+        568
+      ]
+    },
+    {
+      "video": "street",
+      "roi_name": "left_guy",
+      "roi": [
+        255.0,
+        143.0,
+        37.0,
+        95.0
+      ],
+      "frame": 424,
+      "tpl_crop_sz": 119.0,
+      "search_crop_sz": 238.0,
+      "frame_hw": [
+        320,
+        568
+      ]
+    },
+    {
+      "video": "basketball",
+      "roi_name": "basket",
+      "roi": [
+        1010.0,
+        1600.0,
+        436.0,
+        740.0
+      ],
+      "frame": 0,
+      "tpl_crop_sz": 1137.0,
+      "search_crop_sz": 2273.0,
+      "frame_hw": [
+        4096,
+        2160
+      ]
+    },
+    {
+      "video": "basketball",
+      "roi_name": "basket",
+      "roi": [
+        1010.0,
+        1600.0,
+        436.0,
+        740.0
+      ],
+      "frame": 22,
+      "tpl_crop_sz": 1137.0,
+      "search_crop_sz": 2273.0,
+      "frame_hw": [
+        4096,
+        2160
+      ]
+    },
+    {
+      "video": "basketball",
+      "roi_name": "basket",
+      "roi": [
+        1010.0,
+        1600.0,
+        436.0,
+        740.0
+      ],
+      "frame": 44,
+      "tpl_crop_sz": 1137.0,
+      "search_crop_sz": 2273.0,
+      "frame_hw": [
+        4096,
+        2160
+      ]
+    },
+    {
+      "video": "basketball",
+      "roi_name": "basket",
+      "roi": [
+        1010.0,
+        1600.0,
+        436.0,
+        740.0
+      ],
+      "frame": 66,
+      "tpl_crop_sz": 1137.0,
+      "search_crop_sz": 2273.0,
+      "frame_hw": [
+        4096,
+        2160
+      ]
+    },
+    {
+      "video": "basketball",
+      "roi_name": "basket",
+      "roi": [
+        1010.0,
+        1600.0,
+        436.0,
+        740.0
+      ],
+      "frame": 88,
+      "tpl_crop_sz": 1137.0,
+      "search_crop_sz": 2273.0,
+      "frame_hw": [
+        4096,
+        2160
+      ]
+    }
+  ],
+  "torch_vs_ort": {
+    "score_map": {
+      "max_abs": 1.2218952178955078e-06,
+      "mean_abs": 3.1195682481666154e-08
+    },
+    "size_map": {
+      "max_abs": 1.0132789611816406e-06,
+      "mean_abs": 9.009236379142749e-08
+    },
+    "offset_map": {
+      "max_abs": 4.649162292480469e-06,
+      "mean_abs": 5.52636834072473e-07
+    }
+  },
+  "outputs": {
+    "score_map": {
+      "min": 9.999999747378752e-05,
+      "max": 0.9930979609489441,
+      "nonzero": 5120,
+      "size": 5120
+    },
+    "size_map": {
+      "min": 0.1138216108083725,
+      "max": 0.9768750667572021,
+      "nonzero": 10240,
+      "size": 10240
+    },
+    "offset_map": {
+      "min": -2.502955198287964,
+      "max": 2.4276561737060547,
+      "nonzero": 10240,
+      "size": 10240
+    }
+  },
+  "score_peak_per_pair": [
+    0.9191020727157593,
+    0.6694033145904541,
+    0.6662014722824097,
+    0.6539790630340576,
+    0.48842260241508484,
+    0.8895926475524902,
+    0.5597668886184692,
+    0.5594634413719177,
+    0.6703602075576782,
+    0.7997027635574341,
+    0.972939133644104,
+    0.35871434211730957,
+    0.32375824451446533,
+    0.36826539039611816,
+    0.44099292159080505,
+    0.9930979609489441,
+    0.732624888420105,
+    0.6033229231834412,
+    0.522789716720581,
+    0.6751834154129028
+  ]
+}

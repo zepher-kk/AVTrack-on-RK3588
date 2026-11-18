@@ -1,0 +1,45 @@
+{
+  "onnx": "/path/to/AVTrack-RK3588/onnx/avtrack_gate9_op17.onnx",
+  "rknn": "/path/to/AVTrack-RK3588/build/avtrack_gate9_op17_fp16.rknn",
+  "build_seconds": 5.802557706832886,
+  "size_mb": 15.887413,
+  "per_output": {
+    "score_map": {
+      "max_abs": 0.001004338264465332,
+      "mean_abs": 1.538591823191382e-05,
+      "threshold": 0.002,
+      "pass_": true
+    },
+    "size_map": {
+      "max_abs": 0.0005099773406982422,
+      "mean_abs": 9.360250260215253e-05,
+      "threshold": 0.005,
+      "pass_": true
+    },
+    "offset_map": {
+      "max_abs": 0.005358994007110596,
+      "mean_abs": 0.0004212540516164154,
+      "threshold": 0.005,
+      "pass_": false
+    }
+  },
+  "decoded": {
+    "max_abs": [
+      0.056868829065933824,
+      0.052058711647987366,
+      0.32393592596054077,
+      0.27990448474884033,
+      0.001004338264465332
+    ],
+    "mean_abs": [
+      0.007315732660936191,
+      0.006534053641371429,
+      0.0563631072640419,
+      0.05716433972120285,
+      0.00020966827869415284
+    ]
+  },
+  "peak_xy_same": 20,
+  "pairs": 20,
+  "sim_pass": false
+}
